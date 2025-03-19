@@ -6,7 +6,7 @@ To clone this repository, use the following command:
 ```bash
 git clone https://github.com/anujkattel/phphw.git
 ```
-#Installation
+# Installation
 ## 1. Navigate into the project directory:
 ```
 cd phphw
